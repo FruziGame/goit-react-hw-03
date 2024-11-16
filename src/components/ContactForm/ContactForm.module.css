@@ -1,0 +1,27 @@
+.formContainer {
+    border: 1px solid grey;
+    padding: 10px;
+    max-width: fit-content;
+}
+
+
+.label {
+    display: block;
+    margin-bottom: 2px;
+}
+
+.labelPhone {
+    margin-top: 20px;
+}
+
+.btn {
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+}
+
+.formSpan {
+    position: absolute;
+    display: block;
+    color: red;
+}
